@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
     int operation = 0;
 
+
+    // Dear Brother here our mentor sohe some tricks
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
